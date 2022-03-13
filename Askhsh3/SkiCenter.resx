@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Tο Χιονοδρομικό Κέντρο Πηλίου Αγριόλευκες απέχει 2χλμ. από τον οικισμό των Χανίων Πηλίου, 8 χλμ. από τον οικισμό του Αγ. Λαυρεντίου και 27 χλμ. από το Βόλο. Το Χιονοδρομικό Κέντρο αναπτύσσεται στο βουνό του Πηλίου σε υψόμετρο 1471 μ., υψόμετρο το οποίο είναι εκπληκτικά χαμηλό για χιονοδρομικό κέντρο και του προσδίδει ιδιαιτερότητες στην χιονόπτωση, τη μορφολογία του εδάφους αλλά και το κλίμα.
+Υπάρχουν 5 πίστες συνολικού μήκους 15χλμ: 4 κύριες πίστες για σκι καταβάσεων εγκεκριμένες από τη Διεθνή Ομοσπονδία Χιονοδρομίας (FIS) 1 πίστα δρόμου αντοχής (Lang-Lauf), μήκους 5 χλμ., μοναδική για το φυσικό της περιβάλλον καθώς η κατάβαση γίνεται ανάμεσα σε οξιές, αγριόλευκες, καστανιές και θέα στο Αιγαίο.
+Το Χιονοδρομικό κέντρο διαθέτει 3 χώρους στάθμευσης για περισσότερα από 800 αυτοκίνητα, καταφύγιο, αναψυκτήριο, εστιατόριο, ενοικιάσεις -πωλήσεις εξοπλισμού ειδών ski &amp; snowboard και φυσικά ιατρείο.
+Λειτουργεί επίσης σχολή σκι και snowboard με ειδικά τμήματα για παιδιά 3 χρονών και άνω από έμπειρους παιδαγωγούς δασκάλους.
+
+Καθημερινές, Σαββατοκύριακα και αργίες η τιμή της κανονικής κάρτας είναι 12 ευρώ και της εκπτωτικής 10 ευρώ, απλή μετάβαση 3 ευρώ.</value>
+  </data>
+  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAAAAEAIACoEAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAgBAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAA29bYy9vW2MsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAADc1ti/29bY0tjT2DXc19j/3NfY/9zX1zTb1tjS3NbYvwAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAANvW1svc19j/29bX+9zX2P/c19j/29bX+9zX2P/b1tjLAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA37+/CNvY2Irb1tf83NfY/9zX2P/b1tf83NbYi9/f
+        3wgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAADb1dhQ3NjYcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANvT1zrc19j/3NfY/9vX
+        1zoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADc2Nhw29XYUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAANzW193c19j/2tHaHAAAAAAAAAAAAAAAANvW18Lc19jU2dXVN9zX
+        2P/c19j/3dnZNtzX19Tb1tfCAAAAAAAAAAAAAAAA2tHRHNzX2P/c1tfdAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAv7+/BNzX13Xb1tY529bX0NzX2P/e2dkv2traFdzX14bc1dUl29bXydzX
+        2P/c19j73NfY/9zX2P/c19j73NfY/9vW18nc1dUl3NfXhtDQ0BbZ2dkv3NfY/9zX19DZ1NQ22tbYav//
+        /wEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADa1tY/3NfY/9vW1/7b1tf33NfY/9vT10Hc19do3NfY/9vW
+        1pHa2toH29fXiNzX2Pvc19j/3NfY/9vW1/zb1teJ2traB93Y2JDc19j/2tXVadvX10Dc19j/29fY9tvW
+        1/3c19j/3djYNQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL+/vwTb19eA29fX99zX2P/c19j/29XXldvW
+        1mXc19j/29bYpAAAAAAAAAAA2tbWONzX2P/c19j/2tbaOAAAAAAAAAAA29bWpNzX2P/b1tZk3NbYktzX
+        2P/c19j/3NbX+NzW2ISqqqoDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3tnZL9zX2LPb1tf+3NfY/9zX
+        2P/c19j/29bX99zX2P/b19e1AAAAAAAAAAAAAAAA3NfY/9zX2P8AAAAAAAAAAAAAAADb1te13NfY/9zX
+        2PXc19j/3NfY/9zX2P/b1tf+29fXtN7Z2S8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADa1tfU3NfY/9vX
+        2PPb1tiK2dbWS9zX2M/c19j/3NfY/9vW1+Pa1dUxAAAAAAAAAADc19j/3NfY/wAAAAAAAAAA3dfXLdvX
+        2OHc19j/3NfY/9vV19Pd19pN29fXidvW1/Pc19j/29fY0wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANzW
+        2VHb19d75NbWE9ra2gfb1dd73NbX69zX2P/c19j/3NfY/9vW1/zc19ea3NDQFtzX2P/c19j/2MzMFNvW
+        15bc19j73NfY/9zX2P/c19j/29fY7NvX13va2toH1tbWE9vX13vc1tlRAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAA3NbZX9zX2P/c19j/3NfYwtrW1kzc1tiL29fY+dzX2P/b1tfw3NfY/9zX
+        2P/b1tfu3NfY/9vX2Prd19eP3dbaTNvW18Lc19j/3NfY/9zW2V8AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADl2NgU29jYitvX10AAAAAAAAAAAAAAAADc1dUl29fXs9vW
+        1/7c19j/3NfY/9zX2P/c1te339jYKAAAAAAAAAAAAAAAANvX10Db2NiK5djYFAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANTU1BLb1tiK2tbWPwAAAAAAAAAAAAAAANzV
+        3CXb19iz29bX/tzX2P/c19j/3NfY/9zW17ff2NgoAAAAAAAAAAAAAAAA2tbWP9vW2IrU1NQSAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA29nZXtzX2P/c19j/3NfYwdnW
+        1kvc1tiL29fY+dzX2P/b1tfw3NfY/9zX2P/b1tfu3NfY/9vX2Prb1tiQ3dbZS9vW18Hc19j/3NfY/9vZ
+        2V4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADb1dVQ3NfXfNjY2BTa2toH3NfXfNzX
+        2Ozc19j/3NfY/9zX2P/b1tf83NfXmtzQ0Bbc19j/3NfY/+TW1hPb1teW3NfY+9zX2P/c19j/3NfY/9zX
+        2Oza1tZ92traB+TW1hPc19d829XVUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANvV19Pc19j/29fY89vW
+        2Ird1tZL29bX0NzX2P/c19j/3NfY4trV1TEAAAAAAAAAANzX2P/c19j/AAAAAAAAAADd19ct3NbX4tzX
+        2P/c19j/29fY09vU107d19eJ29bX89zX2P/b1dfTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3tnZL9vX
+        2LPb1tf+3NfY/9zX2P/c19j/29bX99zX2P/b19e1AAAAAAAAAAAAAAAA3NfY/9zX2P8AAAAAAAAAAAAA
+        AADb19e13NfY/9vX2PXc19j/3NfY/9zX2P/b1tf+29XXtN7Z2S8AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAD///8C29fXgNvX2Pfc19j/3NfY/9vX15Xb1tZl3NfY/9vW2KQAAAAAAAAAANnV1Tfc19j/3NfY/97Z
+        2TcAAAAAAAAAANvW2KTc19j/3djYY9zW1pLc19j/3NfY/9zW1/jc1tiEqqqqAwAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAN3Z2Tbc19j/29bX/tvW1/fc19j/29PXQdzX12jc19j/3djYkNra2gfb19eH3NfY+9zX
+        2P/c19j/3NfY+9vV14ja2toH29jYkNzX2P/c19do39fbQNzX2P/b19f229bX/dzX2P/Z1dU3AAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAqqqqA9vX123b1tY529bX0NzX2P/e2dkv2traFdvW2Irb29sk3NfYx9zX
+        2P/c19j73NfY/9zX2P/c19j73NfY/9zX2Mjb1Nsk29bYitra2hXe2dkv3NfY/9zX19Dd2Ng12tbWav//
+        /wIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADb1tfd3NfY/9rR0RwAAAAAAAAAAAAA
+        AADc1tjF3NfY1N7Z2Tfc19j/3NfY/9nV1Tfb1tfV3NfYwgAAAAAAAAAAAAAAAOLZ2Rvc19j/29bX3QAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANvV2FDc1thwAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAA2tbWONzX2P/c19j/29bWOQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANzY
+        2HDb2NhQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAA2traB9vW14nb1tf83NfY/9zX2P/b1tf829bYitra2gcAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADb1tfJ3NfY/9vW1/vc19j/3NfY/9vW1/vc19j/29bXygAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAN3X18Pb1tjS2dTUNtzX2P/c19j/3djYNdvX
+        2NPb1tfBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3NfYx9vW
+        18gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAA/////////////n////AP///wD///8A///Pw/P/xwDj/gAAAH4AAAB+AM
+        MAfgDnAH4AZgB+AAAAf8AAA//HAOP/xwDj/8AAA/4AAAB+AGYAfgDnAH4AwwB+AAAAfgAAAH/HAOP/z8
+        Pz//8A////AP///wD////n////////////8=
+</value>
+  </data>
+</root>

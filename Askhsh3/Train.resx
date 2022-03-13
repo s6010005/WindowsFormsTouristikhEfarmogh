@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Στο παλιό σταθμό στο χωριό Μηλιές Πηλίου αράζει ένα από τα πιο γραφικά τρένα της Ελληνικής σιδηροδρομικής παράδοσης, ο γνωστός Μουτζούρης. Ο Μουτζούρης μας έρχεται από τα τέλη του 19ου αιώνα παρακαλώ και συγκεκριμένα από το μακρινό 1896 όταν και ολοκληρώθηκε η γραμμή ένωνε τον Βόλο με τα Λεχώνια. Το υπόλοιπο τμήμα και μέχρι το σταθμό στις Μηλιές παραδόθηκε το 1903.
+
+Το τρενάκι του Πηλίου σήμερα δεν ξεκινάει από τον Βόλο, θα δείτε όμως τμήματα των γραμμών στον παραλιακό δρόμο από τον Βόλο προς τις Μηλιές, αλλά από τα Άνω Λεχώνια (απέχουν 12 χλμ από τον Βόλο) με κατεύθυνση τις γραφικές Μηλιές. Το μήκος της διαδρομής είναι 16 χιλιόμετρα και η διαδρομή διαρκεί περίπου 90 λεπτά.</value>
+  </data>
+  <data name="textBox2.Text" xml:space="preserve">
+    <value>Αφού φτάσετε στον σιδηροδρομικό σταθμό του Μουτζούρη στις Μηλιές μπορείτε να μπείτε στον χώρο έκδοσης εισιτηρίων οπού λειτουργεί μία μικρή έκθεση με χρήσιμες πληροφορίες για την ιστορία και την λειτουργία του τρένου του Πηλίου.
+
+Από κει και πέρα και όσο περιμένετε τον ερχομό του Μουτζούρη σας προτείνουμε να περπατήσετε πάνω στις γραμμές του τρένου μέχρι τουλάχιστον την ξακουστή και σπάνιας κατασκευής σιδερένια γέφυρα του Εβαρίστο Ντε Κίρικο (Ιταλός αρχιτέκτονας, πατέρας του διάσημου καλλιτέχνη Τζιόρτιο ντι Κίρικο).
+
+Η διαδρομή είναι καταπράσινη ενώ αν έχετε όρεξη και χρόνο συνεχίστε για κανα 5λεπτο ακόμα μέχρι να φτάσετε στο σημείο που βλέπετε την γέφυρα από μακρυά και μέσα στις δασωμένες πλαγιές, ενώ μετά την δεξιά στροφή θα έχετε πολύ ωραία θέα προς τις Μηλιές.</value>
+  </data>
+  <data name="textBox3.Text" xml:space="preserve">
+    <value>Πρόκειται για μία ιστορική διαδρομή με διάρκεια ζωής όπως αναφέραμε πάνω από 110 χρόνια ενώ πρόκειται για μία από τις στενότερες σιδηροδρομικές γραμμές παγκοσμίως, πλάτους μόλις 60 εκατοστών! Αν προσθέσετε και τον προηγμένο κατασκευαστικό σχεδιασμό για την εποχή μαζί με την μοναδικότητα του φυσικού κάλλους της περιοχής που διασχίζει, καταλαβαίνετε γιατί το τρενάκι του Πηλίου κλέβει τις καρδιές όσων έχουν την τύχη να ταξιδέψουν μαζί του.
+
+Ο καλύτερος τρόπος για να φτάσετε στον σταθμό των Μηλιών από το κέντρο του χωριού είναι να ακολουθήσετε το κατηφορικό λιθόστρωτο μονοπάτι που ξεκινάει ακριβώς κάτω από την κεντρική πλατεία των Μηλιών. Η ανηφορική επιστροφή θα είναι κάπως κουραστική ενώ αν είστε με παρέα μπορεί κάποιος να πάει με το αυτοκίνητο μέχρι τον σταθμό και να ανεβείτε πάλι στο κέντρο του χωριού όλοι μαζί.</value>
+  </data>
+  <data name="textBox4.Text" xml:space="preserve">
+    <value>Αφού φτάσετε στον σιδηροδρομικό σταθμό του Μουτζούρη στις Μηλιές μπορείτε να μπείτε στον χώρο έκδοσης εισιτηρίων οπού λειτουργεί μία μικρή έκθεση με χρήσιμες πληροφορίες για την ιστορία και την λειτουργία του τρένου του Πηλίου.
+
+Από κει και πέρα και όσο περιμένετε τον ερχομό του Μουτζούρη σας προτείνουμε να περπατήσετε πάνω στις γραμμές του τρένου μέχρι τουλάχιστον την ξακουστή και σπάνιας κατασκευής σιδερένια γέφυρα του Εβαρίστο Ντε Κίρικο (Ιταλός αρχιτέκτονας, πατέρας του διάσημου καλλιτέχνη Τζιόρτιο ντι Κίρικο).
+
+Η διαδρομή είναι καταπράσινη ενώ αν έχετε όρεξη και χρόνο συνεχίστε για κανα 5λεπτο ακόμα μέχρι να φτάσετε στο σημείο που βλέπετε την γέφυρα από μακρυά και μέσα στις δασωμένες πλαγιές, ενώ μετά την δεξιά στροφή θα έχετε πολύ ωραία θέα προς τις Μηλιές.</value>
+  </data>
+</root>
