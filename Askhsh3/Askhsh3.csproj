@@ -217,22 +217,52 @@
     <None Include="Resources\xk_piliou1-1024x768.jpg" />
     <None Include="Resources\PelionSki2.jpg" />
     <None Include="Resources\PelionSki1.jpg" />
-    <None Include="Resources\agiosGeorgiosNilias.jpg" />
-    <None Include="Resources\zagora.jpg" />
-    <None Include="Resources\vizitsa.jpg" />
-    <None Include="Resources\tsagkarada.jpg" />
-    <None Include="Resources\trikeri.jpg" />
-    <None Include="Resources\portaria.jpg" />
-    <None Include="Resources\neoxori.jpg" />
-    <None Include="Resources\milies.jpg" />
-    <None Include="Resources\makrinitsa.jpg" />
-    <None Include="Resources\lafkos.jpg" />
-    <None Include="Resources\ksourixti.jpg" />
-    <None Include="Resources\agiosVlassios.jpg" />
-    <None Include="Resources\agiosLavrentios.jpg" />
-    <None Include="Resources\agiosGeorgiosNilias.jpeg" />
+    <None Include="Resources\agiosGeorgiosNilias.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Resources\zagora.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Resources\vizitsa.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Resources\tsagkarada.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Resources\trikeri.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Resources\portaria.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Resources\neoxori.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Resources\milies.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Resources\makrinitsa.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Resources\lafkos.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Resources\ksourixti.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Resources\agiosVlassios.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Resources\agiosLavrentios.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Resources\agiosGeorgiosNilias.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="Resources\1435843-200.png" />
-    <None Include="Resources\pilio_villages.jpg" />
+    <None Include="Resources\pilio_villages.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">

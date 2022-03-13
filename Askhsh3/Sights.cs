@@ -33,7 +33,7 @@ namespace Askhsh3
             {
                 //write it to disk
                 File.WriteAllBytes(mp4Path, Properties.Resources.Pelion2);
-}
+            }
 
     //play using mp4Path
             axWindowsMediaPlayer1.URL =mp4Path;
